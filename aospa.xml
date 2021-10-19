@@ -47,7 +47,7 @@
   <project path="frameworks/native" name="AOSPA/android_frameworks_native" remote="aospa" />
 
   <!-- Manifest -->
-  <project path="manifest" name="AOSPA/manifest" remote="aospa" />
+  <project path="manifest" name="AOSPA-op8/manifest" remote="github" revision="sapphire" />
 
   <!-- Packages (AOSPA) -->
   <project path="packages/apps/ParanoidDoze" name="AOSPA/android_packages_apps_ParanoidDoze" remote="aospa" />
