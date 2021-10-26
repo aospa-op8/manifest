@@ -55,7 +55,7 @@
   <project path="hardware/qcom/wlan" name="AOSPA/android_hardware_qcom_wlan" remote="aospa" />
 
   <!-- Manifest -->
-  <project path="manifest" name="AOSPA/manifest" remote="aospa" />
+  <project path="manifest" name="aospa-op8/manifest" remote="aospa" />
 
   <!-- Packages (AOSPA) -->
   <project path="packages/apps/ParanoidDoze" name="AOSPA/android_packages_apps_ParanoidDoze" remote="aospa" />
