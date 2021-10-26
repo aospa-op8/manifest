@@ -87,7 +87,7 @@
 
   <!-- Vendor (AOSPA) -->
   <project path="vendor/google/gms" name="ThankYouMario/proprietary_vendor_google_gms" remote="bitbucket" />
-  <project path="vendor/aospa" name="AOSPA/android_vendor_aospa" remote="aospa" >
+  <project path="vendor/aospa" name="AOSPA-op8/android_vendor_aospa" remote="aospa" >
     <linkfile src="build.sh" dest="rom-build.sh" />
   </project>
   <project path="vendor/qcom/common" name="aospa-op8/proprietary_vendor_qcom_common" remote="aospa" />
