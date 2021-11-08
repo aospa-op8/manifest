@@ -81,6 +81,8 @@
   <project path="system/core" name="AOSPA/android_system_core" remote="aospa" />
   <remove-project name="platform/system/libhwbinder" />
   <project path="system/libhwbinder" name="aospa-op8/android_system_libhwbinder" remote="aospa" />
+  <remove-project name="platform/system/sepolicy" />
+  <project path="system/sepolicy" name="AOSPA/android_system_sepolicy" remote="aospa" />
 
   <!-- Tools (AOSPA) -->
   <project path="tools/extract-utils" name="AOSPA/android_tools_extract-utils" remote="aospa" />
